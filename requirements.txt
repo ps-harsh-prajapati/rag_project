@@ -1,0 +1,9 @@
+pandas
+rank-bm25
+flashrank
+langchain-text-splitters
+PyMuPDF
+ollama
+qdrant-client
+python-dotenv
+openai
